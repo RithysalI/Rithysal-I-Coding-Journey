@@ -15,6 +15,7 @@ This repo is a collection of my projects, assignments, and experiments as I cont
 ---
 
 ## 🚀 Current Focus
+- Applying my previous assignments into a well documented series
 - Strengthening my foundation in **Data Structures & Algorithms**  
 - Exploring **Cybersecurity fundamentals**  
 - Practicing with **Python, C++, and C** through hands-on projects  
