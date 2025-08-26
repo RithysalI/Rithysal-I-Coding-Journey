@@ -8,9 +8,9 @@ This repo is a collection of my projects, assignments, and experiments as I cont
 
 ## 📂 Repository Structure
 - **/python-projects/** → Small scripts, data analysis, and problem-solving in Python  
+- **/c-projects/** → Low-level C programming exercises
 - **/cpp-projects/** → C++ work including object-oriented programming and algorithms  -  In progress
-- **/c-projects/** → Low-level C programming exercises  
-- **/cybersecurity/** → Demos and projects related to security concepts (e.g., password hashing, encryption basics)  - Coming Sooon
+- **/cybersecurity/** → Demos and projects related to security concepts (e.g., password hashing, encryption basics)  - Coming Soon
 
 ---
 
@@ -23,6 +23,7 @@ This repo is a collection of my projects, assignments, and experiments as I cont
 ---
 
 ## 🌱 Next Steps
+- Learning more coding languages
 - Add more personal projects  
 - Contribute to open-source  
 - Continue documenting my journey here!  
